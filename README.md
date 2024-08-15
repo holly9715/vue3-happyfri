@@ -163,3 +163,4 @@ new Vue({
 	store,
 }).$mount('#app')
 ```
+## 以上项目是原版的vue2项目，vue3的项目在vue3_project文件夹下
